@@ -5,4 +5,8 @@
 
 # actividad 2
 
-_po05_OperacionesMatematicas.java 
+_p05_OperacionesMatematicas
+_p06_PromedioCalificaciones
+_p07_OperadoresAsignacion
+_p08_FuncionesTrigonometricas
+_p09_DividirEnCifras
