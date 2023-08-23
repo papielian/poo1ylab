@@ -3,12 +3,6 @@
 - Nombre: Elian Loera 
 - Correo: rogeliopan25@gmail.com
 
-# actividad 1
-
-- programa 1 
-- programa 2
-
 # actividad 2
 
-- programa 3 
-- programa 4 
+_po05_OperacionesMatematicas.java 
