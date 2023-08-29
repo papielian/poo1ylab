@@ -1,3 +1,4 @@
+
 // Calcula el promedio de tres calificaciones, calcula también la mayor y la menor
 import java.util.Scanner;
 public class _p06_PromedioCalificaciones {
