@@ -5,16 +5,16 @@
 
 # actividad 2
 
-_p05_OperacionesMatematicas
-_p06_PromedioCalificaciones
-_p07_OperadoresAsignacion
-_p08_FuncionesTrigonometricas
-_p09_DividirEnCifras
+- _p05_OperacionesMatematicas
+- _p06_PromedioCalificaciones
+- _p07_OperadoresAsignacion
+- _p08_FuncionesTrigonometricas
+- _p09_DividirEnCifras
 
 # actividad 3 
 
-_p16_TrabajandoEnteros
-_p17_TrabajandoFlotantes
-_p18_TrabajandoConstantes
-_p19_TrabajandoCaracteres
-_p20_ConversionTipos
+- _p16_TrabajandoEnteros
+- _p17_TrabajandoFlotantes
+- _p18_TrabajandoConstantes
+- _p19_TrabajandoCaracteres
+- _p20_ConversionTipos
