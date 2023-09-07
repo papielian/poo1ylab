@@ -48,3 +48,14 @@
 - _p36_CompraPizza
 - _p37_CalculosNotas
 - _p38_AceptarEstudianteV2
+
+# actividad 7
+
+- _p39_Numeros1a100
+- _p40_Numeros100a1
+- _p41_ProcesaCalificaciones
+- _p42_TablaMultiplicar
+- _p43_ConteoNumeros
+
+
+        
