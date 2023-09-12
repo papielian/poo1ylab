@@ -25,3 +25,5 @@ public class _p47_ConjeturaCollatz {
         System.out.println("\nGracias por utilizar este programa !");
     }
 }
+
+//hola

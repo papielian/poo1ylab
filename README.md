@@ -57,5 +57,9 @@
 - _p42_TablaMultiplicar
 - _p43_ConteoNumeros
 
+# actividad 8 
 
-        
+- _p44_ParesAscendente
+- _p45_ImparesDescendente
+- _p46_TablaConversion
+- _p47_ConjeturaCollatz
