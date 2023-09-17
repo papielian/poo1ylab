@@ -79,3 +79,9 @@
 - _p55_SumaParesImpares
 - _p56_SumaPromedio
 
+# actividad 10 
+
+- _p57_TablasMultiplicar
+- _p58_Piramide
+- _p59_FactorialNumeros  
+- _p60_SumaTerminos

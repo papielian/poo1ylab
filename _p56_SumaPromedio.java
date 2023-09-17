@@ -25,3 +25,5 @@ public class _p56_SumaPromedio {
         System.out.println("\nProceso Terminado ...");
     }
 }
+
+//:)
