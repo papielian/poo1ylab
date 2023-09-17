@@ -71,3 +71,11 @@
 - _p50_ConversionTemperaturas
 - _p51_SerieFibonaci
 
+# actividad 9 
+
+- _p52_Numeros1aN
+- _p53_NumerosNa1
+- _p54_ArribaAbajo
+- _p55_SumaParesImpares
+- _p56_SumaPromedio
+
