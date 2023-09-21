@@ -100,3 +100,11 @@
 - _p67_SumaRango
 - _p68_TablaMultiplicar
 - _p69_CalificacionLetra
+
+# practica 5 
+ 
+ - _p75_NumeroMenor
+- _p76_DiaSemana  
+- _p77_MedidasLongitud  
+- _p78_SumaMultiplos
+- _p79_Angulo
