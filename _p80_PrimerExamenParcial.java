@@ -16,7 +16,7 @@ public class _p80_PrimerExamenParcial {
         double totalDineroTrabajadores = 0;
         double totalDineroGeneral = 0;
         double totalEdad = 0;
-        
+        System.out.print("\033[H\033[2J");System.out.flush();
         System.out.println("Bienvenido al control de inscripciones");
         System.out.println("Ingrese los datos de los participantes (o 'fin' para terminar):");
         
@@ -67,7 +67,7 @@ public class _p80_PrimerExamenParcial {
         
         totalDineroGeneral = totalDineroAlumnos + totalDineroDocentes + totalDineroTrabajadores;
         double promedioEdad = totalEdad / totalParticipantes;
-        
+        System.out.print("\033[H\033[2J");System.out.flush();
         System.out.println("\nEstadísticas:");
         System.out.println("Total de Alumnos: " + totalAlumnos);
         System.out.println("Total de Docentes: " + totalDocentes);
