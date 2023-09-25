@@ -26,3 +26,4 @@ public class _p04_PagaTrabajador {
 
     }
 }
+// :)

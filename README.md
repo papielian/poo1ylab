@@ -3,6 +3,13 @@
 - Nombre: Elian Loera 
 - Correo: rogeliopan25@gmail.com
 
+# actividas 1 
+
+- _p01_HolaMundo
+- _p02_AreaCirculo
+- p03_AreaTriangulo
+- _p04_PagaTrabajador
+
 # actividad 2
 
 - _p05_OperacionesMatematicas
@@ -18,6 +25,14 @@
 - _p18_TrabajandoConstantes
 - _p19_TrabajandoCaracteres
 - _p20_ConversionTipos
+
+# practica 1
+- _p10_HipotenusaTriangulo
+- _p11_CalcularAngulo
+- _p12_ConvertirTemperatura
+- _p13_VolumenCilindro
+- _p14_CalculoTiempo
+- _p15_ConvertirADolares
 
 # actividad 4
 
