@@ -30,7 +30,7 @@ public class _p80_PrimerExamenParcial {
             
             System.out.print("Edad: ");
             int edad = input.nextInt();
-            input.nextLine();  // Consumir la nueva línea pendiente
+            input.nextLine();
             
             System.out.print("Sexo (M/F): ");
             char sexo = input.nextLine().charAt(0);
@@ -63,7 +63,7 @@ public class _p80_PrimerExamenParcial {
                     totalMujeres++;
                 }
             }
-        }
+        } 
         
         totalDineroGeneral = totalDineroAlumnos + totalDineroDocentes + totalDineroTrabajadores;
         double promedioEdad = totalEdad / totalParticipantes;
@@ -93,5 +93,6 @@ public class _p80_PrimerExamenParcial {
         }
         
         input.close();
+
     }
 }
