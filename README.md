@@ -27,6 +27,7 @@
 - _p20_ConversionTipos
 
 # practica 1
+
 - _p10_HipotenusaTriangulo
 - _p11_CalcularAngulo
 - _p12_ConvertirTemperatura
@@ -116,9 +117,17 @@
 - _p68_TablaMultiplicar
 - _p69_CalificacionLetra
 
+# actividad 12 
+
+- _p70_MayorTresNumeros
+- _p71_SumaDigitos
+- _p72_SumaParesImpares
+- _p73_Factorial.java   
+- _p74_CuadroCaracter
+
 # practica 5 
  
- - _p75_NumeroMenor
+- _p75_NumeroMenor
 - _p76_DiaSemana  
 - _p77_MedidasLongitud  
 - _p78_SumaMultiplos
@@ -127,3 +136,67 @@
 # primer examen parcial 
 
 - _p80_PrimerExamenParcial
+
+# actividad 13
+
+- _p81_InicializaArregloNumeros
+- _p82_InicializaArregloCadenas
+- _p83_InicializaNombresEdades
+- _p84_PromedioArreglo 
+- _p85_NombresEdades
+
+# actividad 14
+
+- _p86_ArregloMostrar
+- _p87_ArregloTemperaturas
+- _p88_Aleatorios
+- _p89_ArregloAleatorios
+
+# practica 6 
+
+- _p90_Temperaturas
+- _p91_MayoresPromedio
+- _p92_MayorMenor
+- _p93_ParesImpares 
+
+# actividad 15 
+
+- _p94_Empleado01
+- _p95_Empleado02
+- _p96_Empleado03
+- _p97_Empleado04
+
+# practica 7
+
+- _p98_Circulo
+- _p99_Rectangulo
+- _p100_Articulo
+
+# actividad 16
+
+- _p101_TrabajoPersona
+- _p102_AutorLibro
+- _p103_ClienteFactura
+
+# practica 8 
+
+- _p104_PuntoCirculo
+- _p105_PuntoTriangulo
+
+# actividad 17 
+
+- _p106_Persona
+- _p107_Forma 
+
+# practica 9
+
+- _p108_Vehiculo
+- _p109_FormaV2
+
+# actidivad 18 
+
+- _p110_CuentaBancariaV1 
+
+# actividad 19 
+
+- _p111_CuentaBancariaV2
