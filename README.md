@@ -200,3 +200,7 @@
 # actividad 19 
 
 - _p111_CuentaBancariaV2
+
+# segundo examen parcial 
+
+- _p113_SegundoExamenParcial
