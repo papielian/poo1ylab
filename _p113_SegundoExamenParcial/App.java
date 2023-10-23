@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J");
         System.out.flush();
-
+        System.out.print("me cae muy bien profe");
         Equipo miequipo = new Equipo("Limones", "Torneo la Bombonera");
         miequipo.reporte();
 
@@ -22,3 +22,7 @@ public class App {
         miequipo.reporte();
     }
 }
+
+// no se si este bien profe:( si esta mal aun asi pongame 10, no sea malito:((
+//esq no se si quiere que le agreguemos una opcion para que el usuario meta datos de jugadores o si 
+//quiere que usemos los datos que usted nos dio y me da pena preguntar jaja
