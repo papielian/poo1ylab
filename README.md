@@ -204,3 +204,10 @@
 # segundo examen parcial 
 
 - _p113_SegundoExamenParcial
+
+# actividad 20
+ 
+- _p114_Animal
+- _p115_Telefono
+- _p116_Juego
+- _p114_FiguraGeometrica
