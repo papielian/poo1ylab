@@ -211,3 +211,37 @@
 - _p115_Telefono
 - _p116_Juego
 - _p114_FiguraGeometrica
+
+# actividad 21
+
+- _p118_Calculadora
+- _p119_Organismo
+
+# practica 11
+
+- _p120_Vehiculo
+
+# actividad 22
+
+- _p121_Excepcion1
+- _p122_Excepcion2
+- _p123_Excepcion3
+- _p124_Excepcion4
+- _p125_Excepcion5
+- _p126_Excepcion6
+- _p127_MiExcepcion
+
+# practica 12 
+
+- _p128_ExcepcionRaiz
+- _p129_ExcepcionDulces
+- _p130_ExcepcionEdades
+- _p131_ExcepcionTemperatura
+
+# actividad 23 
+
+- _p132_Archivos1
+- _p133_Archivos2
+- _p134_Archivos3
+- _p135_Archivos4
+- _p136_Archivos5
