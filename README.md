@@ -260,5 +260,9 @@
 
 # practica 14 
 
-- _p142_PagaTrabjador
-- _p143_Temperaturas
+- _p143_PagaTrabjador
+- _p144_Temperaturas
+
+# examen parcial 3
+
+- _p146_EstudiantGUI_V2
