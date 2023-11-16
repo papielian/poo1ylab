@@ -263,6 +263,14 @@
 - _p143_PagaTrabjador
 - _p144_Temperaturas
 
+# actividad 25 
+
+- _p145_HolaMundoGUI_V1
+
+# actividad 26 
+
+- _p146_HolaMundoGUI_V
+
 # examen parcial 3
 
-- _p146_EstudiantGUI_V2
+- _p147_TercerExamenParcial
